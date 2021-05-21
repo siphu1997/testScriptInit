@@ -1,0 +1,19 @@
+{
+  "name": "testscriptinit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siphu1997/testScriptInit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siphu1997/testScriptInit/issues"
+  },
+  "homepage": "https://github.com/siphu1997/testScriptInit#readme"
+}
